@@ -63,7 +63,3 @@ npm run dev
 ```
 
 Visit `http://localhost:3000` to start uploading!
-
-## Security Note
-
-This repository does not contain any API keys or secrets. `client_secrets.json`, `.env`, and token files are git-ignored for security.
